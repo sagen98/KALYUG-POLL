@@ -1,0 +1,1 @@
+getElementById('soren').innerHTML = "Soren is nice";
